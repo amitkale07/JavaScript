@@ -1,1 +1,3 @@
 # JavaScript
+
+Examples of Javascript
